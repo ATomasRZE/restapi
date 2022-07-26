@@ -51,7 +51,7 @@ A klikněte na `Login`
 A nyní můžete spouštět všechny dostupné metody.
 
 # Používání
-K práci s REST API doporučují použít [Postman](https://www.postman.com/ "Postman")
+K práci s REST API doporučuji použít [Postman](https://www.postman.com/ "Postman")
 
 # Data pro testy
 ```sql
