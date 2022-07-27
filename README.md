@@ -30,7 +30,7 @@ INSERT INTO user (username,roles,password) VALUES ('test','["ROLE_USER"]','$2y$1
 
 Spusťte server:
 ```sh
-symfony serever:start
+symfony server:start
 ```
 
 Ziskejte JWT token:
